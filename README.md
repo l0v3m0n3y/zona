@@ -1,5 +1,5 @@
 # zona
-JavaScript library for zona.plus
+JavaScript library for w140.zona.plus
 # main
 ```js
 async function main(){
